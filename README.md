@@ -37,6 +37,24 @@ https://zalo.me/g/nlsmbo197
 ![4941afe945ad8df3d4bc3](https://user-images.githubusercontent.com/92734523/138558608-bbd8061b-7eb8-4bc6-bc0d-85da9a6d50f5.jpg)
 -
 **Cảm ơn Team 2dust đã làm ra ứng dụng hay cho mọi người dùng**
+-
+### Hướng Dẩn Tạo Server Vmess Vless Trojan Từ VPS Qua X-UI Xuất QR Code Để Bug 4G Các Nhà Mạng
+-
+**Các Bạn Vào Web Theo Link Sau Để Xem Hình Ảnh Mình Hướng Dẩn Và Làm Theo Nha**
+-
+Link : 
+```
+https://huongdantaoserverbug4g.blogspot.com/
+```
+-
+**Hoặc Vào Kênh Youtube Mình Xem Clip Hướng Dẩn Nhớ Like & Đăng Ký Nha** 
+-
+Link :
+```
+https://www.youtube.com/c/M%E1%BA%A1nhC%C6%B0%E1%BB%9DngTr%E1%BA%A7n0907860662/videos
+```
+-
+                                         **Chúc Mọi Người Sử Dụng Internet Vui Vẻ & Giữ Gìn Sức Khoẻ**
 
 
 
