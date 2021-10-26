@@ -7,8 +7,8 @@ https://zalo.me/g/nlsmbo197
 ## Hướng Dẩn Sử Dụng Và Hình Ảnh Ứng Dụng
 ## Đây là icon ứng dụng
 -
+![0250dc7ce02628787137](https://user-images.githubusercontent.com/92734523/138919042-aa6a74c9-c68a-416d-8e9e-6e17fbc3e219.jpg)
 
--
 ## Đây là giao diện khi vào ứng dụng
 -
 ![29d24d76a7326f6c36236](https://user-images.githubusercontent.com/92734523/138557905-d861cd46-ef51-4bcc-a042-87d56b399f0f.jpg)
